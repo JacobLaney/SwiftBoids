@@ -16,6 +16,7 @@
 		930AC8431E03436200C0ACDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 930AC8411E03436200C0ACDA /* Main.storyboard */; };
 		930AC84E1E03436200C0ACDA /* BirdsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930AC84D1E03436200C0ACDA /* BirdsTests.swift */; };
 		930AC8591E03436200C0ACDA /* BirdsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930AC8581E03436200C0ACDA /* BirdsUITests.swift */; };
+		930AC8671E03493000C0ACDA /* Bird.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930AC8661E03493000C0ACDA /* Bird.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		930AC8541E03436200C0ACDA /* BirdsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BirdsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		930AC8581E03436200C0ACDA /* BirdsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdsUITests.swift; sourceTree = "<group>"; };
 		930AC85A1E03436200C0ACDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		930AC8661E03493000C0ACDA /* Bird.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bird.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				930AC8371E03436200C0ACDA /* GameScene.sks */,
 				930AC8391E03436200C0ACDA /* Actions.sks */,
 				930AC83B1E03436200C0ACDA /* GameScene.swift */,
+				930AC8661E03493000C0ACDA /* Bird.swift */,
 				930AC83D1E03436200C0ACDA /* ViewController.swift */,
 				930AC83F1E03436200C0ACDA /* Assets.xcassets */,
 				930AC8411E03436200C0ACDA /* Main.storyboard */,
@@ -268,6 +271,7 @@
 			files = (
 				930AC83E1E03436200C0ACDA /* ViewController.swift in Sources */,
 				930AC83C1E03436200C0ACDA /* GameScene.swift in Sources */,
+				930AC8671E03493000C0ACDA /* Bird.swift in Sources */,
 				930AC8361E03436200C0ACDA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
