@@ -1,3 +1,7 @@
+<p align="center">
+    <image src="https://github.com/JacobLaney/BluetoothPM2.5Android/blob/master/assets/birds.gif" />
+</p>
+
 # About
 A Swift implementation of some of the ideas behind Craig Reynold's Boids Simulation. Simulation of flocking behavior among birds.
 
