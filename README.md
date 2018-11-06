@@ -1,5 +1,5 @@
 <p align="center">
-    <image src="https://github.com/JacobLaney/SwiftBoidsdroid/blob/master/assets/birds.gif"/>
+    <image src="https://github.com/JacobLaney/SwiftBoids/blob/master/assets/birds.gif" />
 </p>
 
 # About
